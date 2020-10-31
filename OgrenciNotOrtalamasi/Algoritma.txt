@@ -1,0 +1,8 @@
+﻿1) başla
+2) 1. vize girilir.
+3) 2. vize girilir.
+4) Final girilir.
+5) Ortalama = (vize1 + vize2) * 0.2 + final * 0.6 
+6) Eğer Ortalama >= 60 geçer ve ekrana yazdırılır.
+7) Eğer Ortalama < 60 kalır ve ekrana yazdırılır.
+8)bitiş
